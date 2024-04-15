@@ -76,7 +76,7 @@ pkg-config = "0.3.29"
 proptest = "1.4.0"
 pulldown-cmark = { version = "0.9.3", default-features = false }
 rand = "0.8.5"
-regex = "1.10.3"
+regex = "1.10.4"
 rusqlite = { version = "0.30.0", features = ["bundled"] }
 rustfix = { version = "0.8.0", path = "crates/rustfix" }
 same-file = "1.0.6"
